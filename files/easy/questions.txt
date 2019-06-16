@@ -1,0 +1,20 @@
+1|What is the capital of Haiti?|Port-au-Prince|Bogota|Sao Paulo|Caracas
+2|Who is the Vice President of India?|Amit Shah|Venkaiah Naidu|Ram Nath Kovind|Arun Jaitley
+3|Which element is in liquid state at room temperature?|Iron|Mercury|Cobalt|Helium
+4|Which is the Land of the Rising Sun?|China|Australia|Norway|Japan
+5|What is the capital of Croatia?|Budapest|Zagreb|Vienna|Sarajevo
+6|Which of the following OSes isn't UNIX-like?|Ubuntu|MacOS|Windows|Arch Linux
+7|Who is the current CEO of Google?|Satya Nadella|Indira Nooyi|Jeff Bezos|Sundar Pichai
+8|GMT is the time zone standard based in which city?|London|Glasgow|Paris|Manchester
+9|Which among the following is the world's largest desert?|Gobi Desert|Sahara Desert|Antarctic Polar Desert|Arctic Polar Desert
+10|What type of galaxy is the Milky Way?|Elliptical|Circular|Dwarf|Spiral
+11|The asteroid belt is located beyond which of the following planets?|Venus|Jupiter|Mars|Earth
+12|Which of the following countries is known for neutrality in international conflicts?|Switzerland|United States|Japan|Italy
+13|What is a Geiger counter used to detect?|Air Pressure|Radiation|Electric Current|Luminosity
+14|Which of the following birds has the longest wingspan?|Albatross|Bald Eagle|Vulture|Pelican
+15|Who is the author of Sherlock Holmes?|C.S Lewis|Sir Arthur Conan Doyle|Charles Dickens|Jane Austen
+16|Name the only US President to resign from office.|Bill Clinton|Ronald Reagan|Richard Nixon|John F Kennedy
+17|What do Americans call Autumn?|Spring|Harvest|Equinox|Fall
+18|Which Polish scientist discovered Radium?|Wilhelm Roentgen|Marie Curie|Henri Becquerel|Lise Meitner
+19|Vienna is the capital city of which European country?|Poland|Italy|Austria|Sweden
+20|Which among the following is the world's largest continent?|Africa|Antarctica|North America|Asia

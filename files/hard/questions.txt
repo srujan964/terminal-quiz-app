@@ -1,0 +1,20 @@
+1|Which director has the record for most Oscar wins in Directing?|John Ford|Walt Disney|Clint Eastwood|Francis Ford Coppola
+2|Who is the director of 2001: A Space Odyssey?|Steven Speilberg|Sam Raimi|Stanley Kubrick|Ridley Scott
+3|Who invented the periodic table?|Dmitri Mendeleev|James Rutherford|John Dalton|Linus Pauling
+4|India's first ever national police museum will be established in which city?|Ahmedabad|Chennai|Bangalore|Delhi
+5|The newly photographed black hole is at the center of which galaxy?|Milky Way|Andromeda|Whirlpool|M87
+6|Which is the brightest star in the night sky?|Alpha Centauri|Betelguise|Sirius A|Canis Majoris
+7|Which is the only solved Millenium Prize problem?|P=NP?|Poincare Conjecture|Reimann Hypothesis|Hodge Conjecture
+8|Which of the following is NOT a fissile material?|Uranium-235|Uranium-238|Plutonium-239|Uranium-233
+9|Which of the following is NOT a flightless bird?|Kiwi|Ostrich|Penguin|Peacock
+10|Who is the only female Oscar winner for Best Director?|Kathryn Bigelow|Sofia Coppola|Agnes Varda|Greta Gerwig
+11|Which is the outermost layer of Earth's atmosphere?|Troposphere|Mesosphere|Exosphere|Stratosphere
+12|What is the Tyrannosaurus Rex's closest living relative?|Chicken|Crocodile|Crab|Lizard
+13|Which Roman emperor is known to have played music while Rome burned?|Ceaser|Nero|Caligula|Tiberius
+14|What is the capital city of Poland?|Oslo|Stockholm|Warsaw|Helsinki
+15|Which was the highest selling gaming console?|Playstation 2|Xbox One|Xbox 360|Playstation 4
+16|Which is the currently highest rated TV show on IMDb?|Breaking Bad|Game of Thrones|Silicon Valley|Chernobyl
+17|Which city in Turkey houses the bridge between Europe and Asia?|Ankara|Istanbul|Bursa|Izmir
+18|Which company introduced the x86_64 CPU architecture (64-bit)?|Intel|AMD|Qualcomm|TSMC
+19|Who was the British PM during World War II?|Clement Attlee|Anthony Eden|Winston Churchill|Margaret Thatcher
+20|Who was the last leader of the USSR?|Mikhail Gorbachev|Nikita Khrushchev|Leonid Brezhnev|Konstantin Chernenko

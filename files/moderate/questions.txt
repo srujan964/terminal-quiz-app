@@ -1,0 +1,20 @@
+1|Who is the CEO of Twitter?|Jack Dorsey|Marissa Mayer|Susan Wojcicki|Ginni Rommetty
+2|Who discovered penicillin?|Louis Pasteur|Alexander Fleming|John Dalton|Marie Curie
+3|The Black Death was propogated by which animal?|Cats|Mosquitoes|Rats|Bats
+4|Which application layer protocol uses the port number 25?|HTTP|SMTP|FTP|PPP
+5|Who painted the roof of the Sistine Chapel?|Bernini|Picasso|Michaelangelo|Raphael
+6|Who invented the World Wide Web?|Tim Berners Lee|Robert Kahn|Linus Torvalds|Larry Page
+7|Which is the tallest mountain in the solar system?|Mt. Everest|Olympus Mons|Mauna Kea|K2
+8|Who was the first man in space?|Yuri Gagarin|Neil Armstrong|Buzz Aldrin|Alan Shephard
+9|Hannibal Lecter is the fictional villain of which novel?|The Bourne Identity|To Kill A Mockingbird|1984|The Silence Of The Lambs
+10|In what year did World War II end?|1911|1947|1945|1953
+11|Which is the longest bone in the human body?|Femur|Patella|Fibula|Humerus
+12|What is the capital of Denmark?|Oslo|Copenhagen|Helsinki|Prague
+13|The Illiad and Odyssey were poems written by which Greek author?|Homer|Aristotle|Plato|Diogenes
+14|Which among the following was not written by Shakespeare?|King Lear|Romeo and Juliet|The Three Musketeers|The Tempest
+15|Which among the following is the world's smallest country?|Liechtenstein|Luxemborg|Monaco|Vatican City
+16|What was the name of the world's first cloned sheep?|Tetra|Ralph|Dolly|Alpha
+17|Which planet in the solar system in farthest from the Sun?|Uranus|Neptune|Pluto|Charon
+18|Achilles' Heel is a well known metaphor of what?|Strength|Weakness|Bravery|Wit
+19|The LHC confirmed the existence of which particle in 2012?|Neutrinos|Penta-quarks|Higgs Boson|Gravitons
+20|Which among the following does not belong to Great Britain?|Ireland|North Ireland|Wales|Scotland
